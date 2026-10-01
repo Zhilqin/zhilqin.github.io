@@ -1,13 +1,14 @@
 # Basic Information 
 title: Zhilun Qin
-position: Incoming Ph.D. Student
+position: Incoming Ph.D. Student (Fall 2027)
 affiliation: Tongji University
+affiliation_link: https://www.tongji.edu.cn/
 email: 2350878@tongji.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Zhilun Qin, artificial intelligence, robotics, Tongji University
-description:  "Zhilun Qin's personal academic website. Incoming Ph.D. student at Tongji University interested in artificial intelligence and robotics."
+keywords: Zhilun Qin, robotics, SLAM, 3D computer vision, 3D Gaussian Splatting, underwater robotics, spatial intelligence
+description: "Zhilun Qin's academic homepage. Incoming Ph.D. student at Tongji University, starting Fall 2027, interested in robotic localization, online mapping, and 3D visual perception."
 canonical: https://zhilqin.github.io/
 
 # Links 
