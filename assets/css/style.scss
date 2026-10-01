@@ -2,3 +2,29 @@
 ---
 
 @import "minimal-light";
+
+/* Larger square profile photo */
+header .image.avatar {
+  display: block;
+  width: 220px;
+  max-width: 100%;
+  margin: 0 auto 24px;
+  border-radius: 0;
+}
+
+header .image.avatar img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  object-position: center;
+  padding: 0;
+  border-radius: 0;
+}
+
+@media screen and (max-width: 960px) {
+  header .image.avatar {
+    width: 180px;
+  }
+}
